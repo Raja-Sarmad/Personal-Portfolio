@@ -55,7 +55,7 @@ const Experience = () => {
               className="h-1 bg-cyan-400 mx-auto rounded-full"
             />
             <p className="py-4 md:py-6 text-gray-400 font-mono tracking-[0.2em] md:tracking-[0.3em] text-[10px] md:text-xs uppercase opacity-70">
-              // My professional journey in tech
+               My professional journey in tech
             </p>
           </motion.div>
         </div>

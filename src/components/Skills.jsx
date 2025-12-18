@@ -53,7 +53,7 @@ const Skills = () => {
           />
           
           <p className="py-6 text-gray-500 uppercase tracking-[0.2em] md:tracking-[0.3em] text-[10px] md:text-xs font-mono">
-            // Expertise & Technologies
+             Expertise & Technologies
           </p>
         </motion.div>
       </div>

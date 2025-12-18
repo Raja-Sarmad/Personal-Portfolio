@@ -74,7 +74,7 @@ const Projects = () => {
           />
           
           <p className="py-6 text-gray-500 font-mono tracking-[0.3em] text-xs uppercase opacity-70">
-            // My recent development work
+             My recent development work
           </p>
         </motion.div>
 
